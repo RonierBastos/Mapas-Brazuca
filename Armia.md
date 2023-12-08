@@ -60,4 +60,105 @@
         <td>NPC's<br>ArchiMaster e<br>Arnold</td>
         <td>Mestre de Skill do Beastmaster. Permite aprender Skill de Beastmaster<br>Vende itens de defesa para Beastmaster.</td>
     </tr>
+    <tr align="center">
+        <td>11</tdr>
+        <td>NPC Eirikr</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>12</tdr>
+        <td>NPC's<br> Rapein e<br>Elder Forema</td>
+        <td>Mestre de Skill da Foema. Permite aprender Skill da Foema<br>Vende itens de defesa para Foema.</td>
+    </tr>
+    <tr align="center">
+        <td>13</tdr>
+        <td>NPC Cargo Guard</td>
+        <td>NPC responsável por guardar itens do personagem.</td>
+    </tr>
+    <tr align="center">
+        <td>14</tdr>
+        <td>NPC Galford</td>
+        <td>Vende vários tipos de armamentos.</td>
+    </tr>
+    <tr align="center">
+        <td>15</tdr>
+        <td>Gold Dragon</td>
+        <td>Adiciona atributos na arma equipada caso leve os 7 cristais e/ou abre os baús de tesouro</td>
+    </tr>
+    <tr align="center">
+        <td>16</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>17</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>18</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>19</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>20</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>21</tdr>
+        <td>Mestre Grifo</td>
+        <td>Transporta os jogadores para Dungeos e áreas de Quest's.</td>
+    </tr>
+    <tr align="center">
+        <td>22</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>23</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>24</tdr>
+        <td>Chefe de Treino</td>
+        <td>NPC responsável pelo treinamento dos iniciantes, recompensa o jogador que derrotar o Chefe final do Campo de Treinamento e levar o Emblema do Orc.</td>
+    </tr>
+    <tr align="center">
+        <td>25</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>26</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>27</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>28</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>29</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+    <tr align="center">
+        <td>30</tdr>
+        <td>Nome</td>
+        <td>Descrição</td>
+    </tr>
+
 </table>
