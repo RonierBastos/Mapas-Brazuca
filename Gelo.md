@@ -12,52 +12,42 @@
     </tr>
     <tr align="center">
         <td>1</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
+        <td>Juli</td>
+        <td>Capitã do Navio de Guerra da cavalaria ddo reino, ajuda no transporte para a cidade de Azran.</td>
     </tr>
     <tr align="center">
         <td>2</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
+        <td>Cargo Guard</td>
+        <td>NPC responsável por guardar itens do personagem.</td>
     </tr>
     <tr align="center">
         <td>3</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
+        <td>Loki</td>
+        <td>NPC responsável por Teleporta para as Quest's de Benção da Refinação.</td>
     </tr>
     <tr align="center">
         <td>4</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
+        <td>Shany</td>
+        <td>Em breve</td>
     </tr>
     <tr align="center">
         <td>5</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
+        <td>Martin</td>
+        <td>Vende poções de HP e MP, Pergaminhos de Caça, pergaminhos de retorno e teleporte, gema estelar, Escritura de Oriharucon e Lactolerium</td>
     </tr>
     <tr align="center">
         <td>6</tdr>
         <td>Nome</td>
-        <td>Descrição</td>
+        <td>Em breve</td>
     </tr>
     <tr align="center">
         <td>7</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
+        <td>Premium Neil</td>
+        <td>NPC que teleporta para o Cassino, onde vende itens CASH.</td>
     </tr>
     <tr align="center">
         <td>8</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
-    </tr>
-    <tr align="center">
-        <td>9</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
-    </tr>
-    <tr align="center">
-        <td>10</tdr>
-        <td>Nome</td>
-        <td>Descrição</td>
+        <td>Zona de Teleporte</td>
+        <td>Teleporta para o Castelo de Noatun</td>
     </tr>
 </table>

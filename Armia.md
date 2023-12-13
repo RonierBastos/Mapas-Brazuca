@@ -81,7 +81,7 @@ O portão sul da cidade de Armia atualmente esta bloqueado; ele leva ao campo ad
     </tr>
     <tr align="center">
         <td>13</tdr>
-        <td>NPC Cargo Guard</td>
+        <td>Cargo Guard</td>
         <td>NPC responsável por guardar itens do personagem.</td>
     </tr>
     <tr align="center">
