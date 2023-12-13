@@ -90,4 +90,14 @@
         <td>Projnnah</td>
         <td>Recebe o GOLD do líder da Guilda Campeã para aumentar a taxa de Drop do canal.</td>
     </tr>
+    <tr align="center">
+        <td>17</tdr>
+        <td>Premium Neil</td>
+        <td>NPC que teleporta para o Cassino, onde vende itens CASH.</td>
+    </tr>
+    <tr align="center">
+        <td>18</tdr>
+        <td>Zona de NPC's premium</td>
+        <td>Região que se encontram diversos NPC's que vendem itens premium que podem te ajudar nas batalhas.</td>
+    </tr>
 </table>
