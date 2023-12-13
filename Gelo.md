@@ -37,7 +37,7 @@
     </tr>
     <tr align="center">
         <td>6</tdr>
-        <td>Nome</td>
+        <td>Bruce</td>
         <td>Em breve</td>
     </tr>
     <tr align="center">
