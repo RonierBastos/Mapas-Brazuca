@@ -80,4 +80,14 @@
         <td>Zona da Guilda</td>
         <td>Zona de Guilda da Guild campeã da cidade de Erion. Entrada permitida apenas para membros da Guilda relacionada. Somente personagens abaixo do level 150 podem participar da guerra.</td>
     </tr>
+    <tr align="center">
+        <td>15</tdr>
+        <td>GV. Itens Monts/td>
+        <td>Vende itens premium como rações, restauradores, catalisadores e curar montaria.</td>
+    </tr>
+    <tr align="center">
+        <td>16</tdr>
+        <td>GV. Âmagos</td>
+        <td>Vende itens premium como Âmagos, acelerador de nascimento e esferas da sorte.</td>
+    </tr>
 </table>
