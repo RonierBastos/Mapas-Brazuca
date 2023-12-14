@@ -108,7 +108,7 @@
     <tr align="center">
         <td>20</tdr>
         <td>Compositor</td>
-        <td>Descrição</td>
+        <td>Funde os itens +9 e itens de refinação transformando em um item Ancient</td>
     </tr>
     <tr align="center">
         <td>21</tdr>
@@ -123,7 +123,7 @@
     <tr align="center">
         <td>23</tdr>
         <td>Juli</td>
-        <td>Descrição</td>
+        <td>Capitã do Navio de Guerra da cavalaria ddo reino, ajuda no transporte para a cidade de Gelo. Apenas os cavaleiros pertecentes a um reino e acima do level 256 são permitidos embarcar.</td>
     </tr>
     <tr align="center">
         <td>24</tdr>
@@ -133,7 +133,7 @@
     <tr align="center">
         <td>25</tdr>
         <td>Guardião Azran</td>
-        <td>Descrição</td>
+        <td>Te teleporta para guerra de Torre e fica informando a guild vencedora.</td>
     </tr>
 
 </table>
